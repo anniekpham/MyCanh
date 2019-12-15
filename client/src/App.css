@@ -1,5 +1,8 @@
-.App {
-  text-align: center;
+* {
+    font-weight: 100;
+    color: #291e0e;
 }
-
-
+body {
+  background: rgb(159,130,87);
+  background: linear-gradient(90deg, rgba(159,130,87,1) 0%, rgba(230,221,196,1) 50%, rgba(159,130,87,1) 100%);
+}

@@ -1,0 +1,29 @@
+.modal-dialog {
+    border: 2px solid #291e0e;
+    text-align: center;
+    width: 26%;
+    height: 26%;
+    margin: auto;
+    margin-top: 9%;
+    font-size: 30px;
+    background-color: white;
+}
+
+.fade {
+    outline: none;
+}
+
+.title {
+    font-size: 75px;
+    text-align: center;
+}
+
+.mainmenu {
+    background-color: transparent;
+    border: none;
+    font-size: 40px;
+    float: left;
+    margin-left: 22px;
+    margin-top: 22px;
+    outline: none;
+}
